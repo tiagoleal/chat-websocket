@@ -23,7 +23,7 @@
 
 ## Web
 
-![](https://github.com/tiagoleal/chat-websocket/blob/master/src/public/images/web.gif)
+![](https://github.com/tiagoleal/chat-websocket/blob/master/src/public/images/chat.gif)
 
 ## Stack the Project
 
